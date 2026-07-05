@@ -26,7 +26,7 @@ function Navbar() {
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <a href="http://localhost:3001" target="_blank" rel="noopener noreferrer">Go to Dashboard</a>
+        <a href="https://paisaflow-dashboard.onrender.com" target="_blank" rel="noopener noreferrer">Go to Dashboard</a>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <form class="d-flex" role="search">
             <ul class="navbar-nav mb-lg-0">
